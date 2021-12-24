@@ -4,8 +4,10 @@
 * E-mail: vkateninr@gmail.com
 * Telegram: [@ralexd](https://t.me/ralexd)
 * Discord: rale.#4329
+
 ### About Me
 Goal: IT Intern (Front-end Developer)
+
 ### Skills
 * Web Development:
   + HTML5
@@ -21,12 +23,14 @@ Goal: IT Intern (Front-end Developer)
   + C# (Fundamentals, Data Structures and Algorithms)
   + C++ (Fundamentals, Data Structures and Algorithms)
   + C (Fundamentals, Data Structures and Algorithms)
+
 ### Code Example
 ```
 function multiply(a, b){
   return a * b;
 }
 ```
+
 ### Work Experience (6 months – 2019-2020)
 1. Engineering
    1. SoftDev – e-shop team development, MIREA
@@ -36,10 +40,12 @@ function multiply(a, b){
       - PageSpeed Insights
       - Yandex Statistics
       - Google Forms
+
 ### Education
 **2019** – finished 9 grades at School № 947, Moscow, CGPA: 5.0/5.0;\
 **2020** - **2021** – 10-11th grades (engineering) at School № 947, Moscow, CGPA: 5.0/5.0;\
 **2021** - **current** – MIREA, ICDT, 09.03.02 Information systems and technologies, specialization: Visual programming technologies, KB-4 "Intelligent information security systems".
+
 ### Languages
 * Russian - native
 * English - B2+ (**2019-2021** - two-year course on improving the English language at MGIMO)
