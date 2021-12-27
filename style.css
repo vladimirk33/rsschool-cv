@@ -1,4 +1,39 @@
-* {
-  padding: 0;
-  margin: 0;
+.main-container {
+  background-color: crimson;
+  width: 555px;
+  height: 800px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.side-panel-container {
+  background-color: aquamarine;
+  width: 210px;
+  height: 100%;
+  display: flex;
+}
+
+.main-menu-container {
+  background-color: blueviolet;
+  width: 325px;
+  height: 100%;
+}
+
+.side-panel {
+  background-color: yellowgreen;
+  width: 100%;
+  height: 760px;
+}
+
+.side-panel-section {
+  background-color: brown;
+  width: 100%;
+  height: 178px;
+}
+
+.side-panel-section-header {
+  background-color: black;
+  color: white;
+  height: 24px;
 }
