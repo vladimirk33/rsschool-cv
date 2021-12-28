@@ -1,6 +1,6 @@
 .main-container {
   background-color: crimson;
-  width: 555px;
+  width: 1110px;
   height: 800px;
   margin: auto;
   display: flex;
@@ -9,15 +9,18 @@
 
 .side-panel-container {
   background-color: aquamarine;
-  width: 210px;
+  width: 420px;
   height: 100%;
   display: flex;
 }
 
 .main-menu-container {
   background-color: blueviolet;
-  width: 325px;
+  width: 650px;
   height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .side-panel {
@@ -29,11 +32,28 @@
 .side-panel-section {
   background-color: brown;
   width: 100%;
-  height: 178px;
+  height: auto;
 }
 
 .side-panel-section-header {
   background-color: black;
   color: white;
   height: 24px;
+}
+
+.main-menu-container-section {
+  background-color: darkgrey;
+}
+
+.main-menu-section-header {
+  background-color: black;
+  color: white;
+  height: 24px;
+}
+
+footer {
+  width: 1110px;
+  height: 36px;
+  background-color: darkkhaki;
+  margin: auto;
 }
