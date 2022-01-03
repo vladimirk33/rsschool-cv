@@ -23,8 +23,9 @@ header nav ul {
     margin: auto;
 }
 
-header nav ul li {
-    margin: 15px;
+header nav ul li div {
+    height: auto;
+    padding: 15px;
 }
 
 header nav ul a {
@@ -32,7 +33,7 @@ header nav ul a {
     color: #424242;
 }
 
-header nav ul a:hover {
+header nav ul li div:hover {
     background-color: #0074FD;
     color: #D8ECFF;
 }
